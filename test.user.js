@@ -6,6 +6,7 @@
 // @author       Tenshi
 // @match        https://gota.io/web/*
 // @grant        GM_xmlhttpRequest
+// @discord      tenshi069 (for issues or feedback)
 // @connect      raw.githubusercontent.com
 // @downloadURL  https://raw.githubusercontent.com/tenshi2002/test/main/test.user.js
 // @updateURL    https://raw.githubusercontent.com/tenshi2002/test/main/test.user.js
