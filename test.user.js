@@ -1,12 +1,12 @@
 // ==UserScript==
-// @name         Gota Skin Gallery (Beta)
-// @namespace    https://github.com/tenshi2002/Gota-Skin-Gallery
-// @version      0.2
-// @description  A simple skin gallery that lets you save your favorite skins and apply them quickly in-game. Beta version — feedback welcome!
+// @name         Gota Skin Gallery 
+// @namespace    testing
+// @version      0.3
+// @description  Asimple skin gallery that lets you save your favorite skins and apply them quickly in-game. Beta version — feedback welcome!+
 // @author       Tenshi
 // @match        https://gota.io/web/*
 // @grant        GM_xmlhttpRequest
-// @discord      tenshi069 (for issues or feedback)
+// @discord      tenshi069 (for issues or feedback) f
 // @connect      raw.githubusercontent.com
 // @downloadURL  https://raw.githubusercontent.com/tenshi2002/test/main/test.user.js
 // @updateURL    https://raw.githubusercontent.com/tenshi2002/test/main/test.user.js
