@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Gota Skin Gallery 
 // @namespace    testing
-// @version      0.3
-// @description  Asimple skin gallery that lets you save your favorite skins and apply them quickly in-game. Beta version — feedback welcome!+
+// @version      0.4
+// @description  g
 // @author       Tenshi
 // @match        https://gota.io/web/*
 // @grant        GM_xmlhttpRequest
