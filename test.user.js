@@ -4,7 +4,10 @@
 // @version      0.4
 // @description  g
 // @author       Tenshi
-// @match        https://gota.io/web/*
+// @match        *://*.gota.io/*
+// @grant        GM_getValue
+// @grant        GM_setValue
+// @grant        GM_addValueChangeListener
 // @grant        GM_xmlhttpRequest
 // @discord      tenshi069 (for issues or feedback) f
 // @connect      raw.githubusercontent.com
