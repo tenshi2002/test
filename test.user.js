@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         Gota Skin Gallery 
+// @name         Gota Skin Gallery1
 // @namespace    testing
-// @version      0.4
+// @version      1.6
 // @description  g
 // @author       Tenshi
 // @match        *://*.gota.io/*
