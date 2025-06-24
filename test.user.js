@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Gota Skin Gallery v1
 // @namespace    testing
-// @version      1.8
+// @version      1.9
 // @description  g
 // @author       Tenshii
 // @match        *://*.gota.io/*
@@ -9,7 +9,6 @@
 // @grant        GM_setValue
 // @grant        GM_addValueChangeListener
 // @grant        GM_xmlhttpRequest
-// @discord      tenshi069 (for issues or feedback) f
 // @connect      raw.githubusercontent.com
 // @downloadURL  https://raw.githubusercontent.com/tenshi2002/test/main/test.user.js
 // @updateURL    https://raw.githubusercontent.com/tenshi2002/test/main/test.user.js
