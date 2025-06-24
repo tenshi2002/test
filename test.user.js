@@ -14,6 +14,451 @@
 // @updateURL    https://raw.githubusercontent.com/tenshi2002/test/main/test.user.js
 // ==/UserScript==
 
-(function(){
-function _0x3287(_0x41ca8c,_0x2bcb0d){var _0x2db9f3=_0x2db9();return _0x3287=function(_0x3287a6,_0x3aacc2){_0x3287a6=_0x3287a6-0x19f;var _0x2e554c=_0x2db9f3[_0x3287a6];return _0x2e554c;},_0x3287(_0x41ca8c,_0x2bcb0d);}(function(_0x14324c,_0xbb413d){var _0x48d8f5=_0x3287,_0x2fa0ca=_0x14324c();while(!![]){try{var _0x433e3f=parseInt(_0x48d8f5(0x1f1))/0x1*(parseInt(_0x48d8f5(0x2b9))/0x2)+-parseInt(_0x48d8f5(0x1f5))/0x3+-parseInt(_0x48d8f5(0x294))/0x4*(parseInt(_0x48d8f5(0x28d))/0x5)+parseInt(_0x48d8f5(0x20c))/0x6+-parseInt(_0x48d8f5(0x1dd))/0x7*(-parseInt(_0x48d8f5(0x255))/0x8)+parseInt(_0x48d8f5(0x1ab))/0x9+-parseInt(_0x48d8f5(0x28e))/0xa;if(_0x433e3f===_0xbb413d)break;else _0x2fa0ca['push'](_0x2fa0ca['shift']());}catch(_0x2a3dea){_0x2fa0ca['push'](_0x2fa0ca['shift']());}}}(_0x2db9,0xb93a1),(function(){var _0x32e7cc=_0x3287;if(window[_0x32e7cc(0x1f4)]!=window[_0x32e7cc(0x210)])return;if(!('code'in KeyboardEvent[_0x32e7cc(0x230)]))return alert('Sorry,\x20your\x20browser\x20is\x20incompatible\x20with\x20Gota.io\x20Features\x20by\x20Donut.\x20You\x27re\x20recommended\x20to\x20install\x20the\x20newest\x20version\x20of\x20Google\x20Chrome\x20or\x20Mozilla\x20Firefox\x20browsers.');function _0xb35d6c(_0x3983f9){return!!_0x3983f9&&!_0x3983f9['split']('.')['some'](function(_0x487081){var _0x594d09=_0x3287;return!/^\d+$/[_0x594d09(0x223)](_0x487081);});}function _0x5afcd6(_0x408a99,_0x199fa6){var _0x147eec=_0x32e7cc,_0x18de57=_0x408a99[_0x147eec(0x2ca)]('.')[_0x147eec(0x1e7)](Number),_0x33871e=_0x199fa6[_0x147eec(0x2ca)]('.')[_0x147eec(0x1e7)](Number);while(_0x18de57[_0x147eec(0x27f)]<_0x33871e['length'])_0x18de57['push'](0x0);while(_0x33871e['length']<_0x18de57[_0x147eec(0x27f)])_0x33871e[_0x147eec(0x298)](0x0);for(var _0x2da61a=0x0;_0x2da61a<_0x18de57['length'];++_0x2da61a){if(_0x18de57[_0x2da61a]>_0x33871e[_0x2da61a])return 0x1;else{if(_0x18de57[_0x2da61a]<_0x33871e[_0x2da61a])return-0x1;}}return 0x0;}var _0x20f3a4=[_0x32e7cc(0x27c),_0x32e7cc(0x211),_0x32e7cc(0x225),_0x32e7cc(0x244),_0x32e7cc(0x1c9)];_0x20f3a4['sort'](_0x5afcd6);var _0x48e2d9=_0x32e7cc(0x1e2),_0x11ad51=localStorage[_0x32e7cc(0x1eb)],_0x4eb608=_0xb35d6c(_0x11ad51),_0x3730bb=!_0x4eb608||_0x5afcd6(_0x20f3a4[_0x20f3a4[_0x32e7cc(0x27f)]-0x1],_0x11ad51)==0x1;if(!_0x3730bb)localStorage['donut-version']=_0x48e2d9;var _0x8c8b33={'.g-recaptcha,\x20.grecaptcha-badge':{'display':_0x32e7cc(0x2af)},'.bottom-btn':{'height':_0x32e7cc(0x250)},'.donut-features-table':{'margin':'auto','width':_0x32e7cc(0x274),'border-collapse':_0x32e7cc(0x26e)},'.donut-features-table\x20td:nth-child(1)':{'text-align':_0x32e7cc(0x23b)},'.donut-features-table\x20th,\x20.donut-features-table\x20td':{'position':_0x32e7cc(0x26b),'padding':_0x32e7cc(0x21c)},'.donut-features-table\x20input[type=\x22text\x22]':{'box-sizing':_0x32e7cc(0x29f),'width':_0x32e7cc(0x23a),'height':'22px','text-align':_0x32e7cc(0x2c8)},'.donut-features-table\x20select':{'position':'absolute','top':_0x32e7cc(0x1c3),'bottom':'2px','left':_0x32e7cc(0x1e3),'box-sizing':_0x32e7cc(0x29f),'padding':'0','width':_0x32e7cc(0x23a),'height':_0x32e7cc(0x1d7),'font-size':'0','background':'transparent','border':'none','outline':'0'},'.donut-features-table\x20option':{'font-size':_0x32e7cc(0x1d6)},'.donut-features-div':{'margin':'auto','padding-top':'4px','width':_0x32e7cc(0x274)},'.donut-checkbox':{'position':_0x32e7cc(0x26b),'top':'1px','margin':'0\x205px'},'.donut-channel-link':{'box-sizing':'border-box','display':_0x32e7cc(0x1e6),'margin':_0x32e7cc(0x293),'padding':_0x32e7cc(0x1a6),'width':_0x32e7cc(0x1dc),'height':'24px','color':'#fefefe','font-family':'Arial,\x20Helvetica,\x20sans-serif','font-size':_0x32e7cc(0x24a),'line-height':_0x32e7cc(0x1d8),'text-align':_0x32e7cc(0x2c8),'text-decoration':_0x32e7cc(0x2b4),'background-color':_0x32e7cc(0x1e9),'border':_0x32e7cc(0x213),'border-radius':_0x32e7cc(0x1c3),'white-space':'nowrap','vertical-align':_0x32e7cc(0x21f),'box-shadow':_0x32e7cc(0x1b2)},'.donut-channel-link::before':{'content':'\x22\x22','position':_0x32e7cc(0x26b),'top':'-1px','display':_0x32e7cc(0x28c),'margin-right':_0x32e7cc(0x1d4),'width':_0x32e7cc(0x22a),'height':'12px','background':_0x32e7cc(0x264),'background-size':_0x32e7cc(0x207),'vertical-align':'middle'},'.donut-channel-link>span':{'display':_0x32e7cc(0x28c),'-moz-box-sizing':_0x32e7cc(0x29f),'box-sizing':_0x32e7cc(0x29f)},'.donut-channel-link:hover':{'background-color':_0x32e7cc(0x1d0)},'.donut-channel-link:active':{'background-color':'#b31217'}};_0x3730bb&&(_0x8c8b33[_0x32e7cc(0x270)]={'content':_0x32e7cc(0x2b6),'position':'absolute','top':_0x32e7cc(0x1a2),'right':'-4px','width':_0x32e7cc(0x280),'height':_0x32e7cc(0x280),'color':_0x32e7cc(0x23e),'font-family':_0x32e7cc(0x204),'font-size':_0x32e7cc(0x24a),'text-align':_0x32e7cc(0x2c8),'line-height':'15px','background-color':_0x32e7cc(0x226),'border-radius':_0x32e7cc(0x1d5),'overflow':_0x32e7cc(0x1de),'-webkit-user-select':'none','-moz-user-select':_0x32e7cc(0x2b4),'-ms-user-select':_0x32e7cc(0x2b4),'user-select':_0x32e7cc(0x2b4)});function _0x8aa7fe(_0x160112){var _0x4103ad=_0x32e7cc,_0x16923c=_0x160112+'{';for(var _0x19376d in _0x8c8b33[_0x160112])_0x16923c+=_0x19376d+':'+_0x8c8b33[_0x160112][_0x19376d]+';';_0x16923c+='}',_0x35fab2[_0x4103ad(0x206)](_0x16923c,_0x35fab2[_0x4103ad(0x218)][_0x4103ad(0x27f)]);}var _0x2e392b=document[_0x32e7cc(0x2b0)](_0x32e7cc(0x1f8));document[_0x32e7cc(0x1cf)][_0x32e7cc(0x2bb)](_0x2e392b);var _0x35fab2=_0x2e392b[_0x32e7cc(0x2a2)];for(var _0x1319d0 in _0x8c8b33)_0x8aa7fe(_0x1319d0);var _0x37211d={'main':document[_0x32e7cc(0x27e)](_0x32e7cc(0x24c)),'left':document['getElementsByClassName'](_0x32e7cc(0x1e4))[0x0],'right':document[_0x32e7cc(0x1b1)](_0x32e7cc(0x28f))[0x0],'stats':document[_0x32e7cc(0x1b1)](_0x32e7cc(0x29b))[0x0],'btnPlay':document['getElementById'](_0x32e7cc(0x2ac)),'btnSpec':document[_0x32e7cc(0x27e)]('btn-spec'),'scorePanel':document[_0x32e7cc(0x27e)](_0x32e7cc(0x2a0)),'partyPanel':document[_0x32e7cc(0x27e)](_0x32e7cc(0x233)),'leaderboardPanel':document['getElementById'](_0x32e7cc(0x209)),'extraPanel':document[_0x32e7cc(0x27e)](_0x32e7cc(0x1af)),'chatPanel':document[_0x32e7cc(0x27e)](_0x32e7cc(0x1ef)),'chatInput':document['getElementById'](_0x32e7cc(0x2b5)),'mainScrimmage':document['getElementById']('main-scrimmage'),'scrimmageModeSelect':document[_0x32e7cc(0x27e)](_0x32e7cc(0x1b0)),'btnQueue':document[_0x32e7cc(0x27e)](_0x32e7cc(0x237)),'scrimmageBtnLeave':document[_0x32e7cc(0x27e)]('scrimmage-btn-leave'),'btnLeaveMatch':document[_0x32e7cc(0x27e)](_0x32e7cc(0x268)),'playerCells':document[_0x32e7cc(0x27e)](_0x32e7cc(0x23c)),'scoreMouse':document[_0x32e7cc(0x27e)](_0x32e7cc(0x1fb)),'sShowSkins':document[_0x32e7cc(0x27e)](_0x32e7cc(0x2c4)),'sShowNames':document[_0x32e7cc(0x27e)]('sShowNames'),'cShowMass':document[_0x32e7cc(0x27e)](_0x32e7cc(0x1ce)),'cHideFood':document[_0x32e7cc(0x27e)](_0x32e7cc(0x219)),'cHideChat':document[_0x32e7cc(0x27e)](_0x32e7cc(0x284)),'cHideMinimap':document[_0x32e7cc(0x27e)](_0x32e7cc(0x278)),'cAutoDecline':document[_0x32e7cc(0x27e)](_0x32e7cc(0x23f)),'cAutoRespawn':document['getElementById'](_0x32e7cc(0x2a6))};_0x37211d[_0x32e7cc(0x299)]['style'][_0x32e7cc(0x259)]='140px',_0x37211d[_0x32e7cc(0x299)][_0x32e7cc(0x1f8)][_0x32e7cc(0x2a1)]=_0x32e7cc(0x1ec);var _0xf41217=document[_0x32e7cc(0x2b0)]('button');_0xf41217[_0x32e7cc(0x1d2)]=_0x32e7cc(0x20d),_0xf41217[_0x32e7cc(0x1f8)][_0x32e7cc(0x1cb)]=_0x32e7cc(0x2b3),_0xf41217[_0x32e7cc(0x1f8)][_0x32e7cc(0x1db)]='none',_0xf41217[_0x32e7cc(0x1f8)][_0x32e7cc(0x1b3)](_0x32e7cc(0x254),_0x32e7cc(0x25c),'important');var _0x124311=_0xf41217[_0x32e7cc(0x242)]();_0x124311[_0x32e7cc(0x1f8)][_0x32e7cc(0x1b3)]('border-radius',_0x32e7cc(0x2b2),'important');var _0x38245c=_0x124311['cloneNode']();_0x38245c['className']+='\x20donut-features-btn',_0x38245c[_0x32e7cc(0x1f8)][_0x32e7cc(0x2c0)]=_0x32e7cc(0x26b),_0x38245c[_0x32e7cc(0x1f8)][_0x32e7cc(0x24e)]=_0x32e7cc(0x29f),_0x38245c[_0x32e7cc(0x1f8)][_0x32e7cc(0x1cb)]=_0x32e7cc(0x1a5),_0x38245c[_0x32e7cc(0x1f8)][_0x32e7cc(0x1b3)](_0x32e7cc(0x254),_0x32e7cc(0x2b2),'important'),_0x38245c[_0x32e7cc(0x1f8)][_0x32e7cc(0x21d)]=_0x32e7cc(0x290),_0x38245c[_0x32e7cc(0x1f8)][_0x32e7cc(0x25b)]='visible',_0x38245c[_0x32e7cc(0x1f8)][_0x32e7cc(0x1db)]=_0x32e7cc(0x23b),_0x38245c[_0x32e7cc(0x202)]=_0x32e7cc(0x277),_0x38245c[_0x32e7cc(0x1c6)](_0x32e7cc(0x1a9),function(){var _0x5bc7b7=_0x32e7cc;_0xfa5603['style'][_0x5bc7b7(0x1c8)]='0',_0xfa5603[_0x5bc7b7(0x1f8)][_0x5bc7b7(0x2a3)]=_0x5bc7b7(0x1e6),_0xa12359(),_0xfa5603[_0x5bc7b7(0x1f8)][_0x5bc7b7(0x1c8)]='1',_0x3730bb&&(localStorage['donut-version']=_0x48e2d9,_0x35fab2[_0x5bc7b7(0x206)]('.donut-features-btn::before{content:none;}',_0x35fab2[_0x5bc7b7(0x218)]['length']));}),_0x37211d['right'][_0x32e7cc(0x2bb)](_0x38245c);var _0xfa5603=document[_0x32e7cc(0x2b0)](_0x32e7cc(0x1a4));_0xfa5603[_0x32e7cc(0x1d2)]=_0x32e7cc(0x1bd),_0xfa5603['style'][_0x32e7cc(0x2c0)]='fixed',_0xfa5603['style'][_0x32e7cc(0x1f4)]='0',_0xfa5603[_0x32e7cc(0x1f8)]['right']='0',_0xfa5603[_0x32e7cc(0x1f8)][_0x32e7cc(0x2ba)]='0',_0xfa5603['style'][_0x32e7cc(0x23b)]='0',_0xfa5603[_0x32e7cc(0x1f8)][_0x32e7cc(0x2a3)]='none',_0xfa5603['style']['background']=_0x32e7cc(0x1ff),_0xfa5603['style']['overflow']='auto',_0xfa5603[_0x32e7cc(0x1f8)]['zIndex']=_0x32e7cc(0x1b7),document['body'][_0x32e7cc(0x2bb)](_0xfa5603);var _0x359ac5=document[_0x32e7cc(0x2b0)](_0x32e7cc(0x1a4));_0x359ac5[_0x32e7cc(0x1f8)][_0x32e7cc(0x2c0)]=_0x32e7cc(0x26b),_0x359ac5['style']['left']=_0x32e7cc(0x1d5),_0x359ac5['style'][_0x32e7cc(0x24d)]=_0x32e7cc(0x280),_0x359ac5[_0x32e7cc(0x1f8)][_0x32e7cc(0x259)]=_0x32e7cc(0x274),_0x359ac5[_0x32e7cc(0x1f8)][_0x32e7cc(0x2b8)]='white',_0x359ac5[_0x32e7cc(0x1f8)][_0x32e7cc(0x2ce)]='Arial,\x20Helvetica,\x20sans-serif',_0x359ac5[_0x32e7cc(0x1f8)][_0x32e7cc(0x1ca)]=_0x32e7cc(0x22a),_0x359ac5[_0x32e7cc(0x1f8)][_0x32e7cc(0x295)]=_0x32e7cc(0x1d7),_0x359ac5[_0x32e7cc(0x1f8)]['textAlign']=_0x32e7cc(0x2c8),_0x359ac5['style'][_0x32e7cc(0x1f6)]=_0x32e7cc(0x212),_0x359ac5['style'][_0x32e7cc(0x1ed)]=_0x32e7cc(0x20a),_0x359ac5['innerHTML']='<table\x20class=\x27donut-features-table\x27><tbody><tr><th>Feature</th><th>Default</th><th>Custom\x20key</th></tr>\x0a<tr><td>Show/hide\x20skins</td><td>K</td><td><input\x20type=\x22text\x22\x20spellcheck=\x22false\x22\x20data-donut-feature=\x22skins\x22></td></tr>\x0a<tr><td>Show/hide\x20names</td><td>N</td><td><input\x20type=\x22text\x22\x20spellcheck=\x22false\x22\x20data-donut-feature=\x22names\x22></td></tr>\x0a<tr><td>Show/hide\x20mass</td><td>M</td><td><input\x20type=\x22text\x22\x20spellcheck=\x22false\x22\x20data-donut-feature=\x22mass\x22></td></tr>\x0a<tr><td>Show/hide\x20food</td><td>F</td><td><input\x20type=\x22text\x22\x20spellcheck=\x22false\x22\x20data-donut-feature=\x22food\x22></td></tr>\x0a<tr><td>Show/hide\x20chat</td><td>H</td><td><input\x20type=\x22text\x22\x20spellcheck=\x22false\x22\x20data-donut-feature=\x22chat\x22></td></tr>\x0a<tr><td\x20colspan=\x222\x22>Triple\x20split\x20(8x)</td><td><input\x20type=\x22text\x22\x20spellcheck=\x22false\x22\x20data-donut-feature=\x22tripleSplit\x22></td></tr>\x0a<tr><td\x20colspan=\x222\x22>Hexa\x20split\x20(64x)</td><td><input\x20type=\x22text\x22\x20spellcheck=\x22false\x22\x20data-donut-feature=\x22hexaSplit\x22></td></tr>\x0a<tr><td\x20colspan=\x222\x22>Show/hide\x20minimap</td><td><input\x20type=\x22text\x22\x20spellcheck=\x22false\x22\x20data-donut-feature=\x22minimap\x22></td></tr>\x0a<tr><td\x20colspan=\x222\x22>Show/hide\x20score\x20panel</td><td><input\x20type=\x22text\x22\x20spellcheck=\x22false\x22\x20data-donut-feature=\x22scorePanel\x22></td></tr>\x0a<tr><td\x20colspan=\x222\x22>Show/hide\x20party\x20panel</td><td><input\x20type=\x22text\x22\x20spellcheck=\x22false\x22\x20data-donut-feature=\x22partyPanel\x22></td></tr>\x0a<tr><td\x20colspan=\x222\x22>Show/hide\x20leaderboard</td><td><input\x20type=\x22text\x22\x20spellcheck=\x22false\x22\x20data-donut-feature=\x22leaderboard\x22></td></tr>\x0a<tr><td\x20colspan=\x222\x22\x20style=\x22padding-right:32px;\x22>Toggle\x20<em>Decline\x20party\x20invites</em></td><td><input\x20type=\x22text\x22\x20spellcheck=\x22false\x22\x20data-donut-feature=\x22autoDecline\x22></td></tr>\x0a<tr><td\x20colspan=\x222\x22>Toggle\x20<em>Auto\x20respawn</em></td><td><input\x20type=\x22text\x22\x20spellcheck=\x22false\x22\x20data-donut-feature=\x22autoRespawn\x22></td></tr>\x0a<tr><th\x20colspan=\x223\x22>Linesplit</th></tr>\x0a<tr><td>Freeze\x20in\x20the\x20middle</td><td>S</td><td><input\x20type=\x22text\x22\x20spellcheck=\x22false\x22\x20data-donut-feature=\x22freeze\x22></td></tr>\x0a<tr><td\x20colspan=\x222\x22>Freeze\x20to\x20linesplit\x20up</td><td><input\x20type=\x22text\x22\x20spellcheck=\x22false\x22\x20data-donut-feature=\x22freezeUp\x22></td></tr>\x0a<tr><td\x20colspan=\x222\x22>Freeze\x20to\x20linesplit\x20down</td><td><input\x20type=\x22text\x22\x20spellcheck=\x22false\x22\x20data-donut-feature=\x22freezeDown\x22></td></tr>\x0a<tr><td\x20colspan=\x222\x22><div\x20style=\x22display:inline-block;text-decoration:underline\x20dotted;cursor:help;\x22\x20title=\x22Horizontal\x20linesplits\x20are\x20not\x20guaranteed\x20to\x20work.\x20Use\x20at\x20your\x20own\x20risk!\x22>Freeze\x20to\x20linesplit\x20left</div></td><td><input\x20type=\x22text\x22\x20spellcheck=\x22false\x22\x20data-donut-feature=\x22freezeLeft\x22></td></tr>\x0a<tr><td\x20colspan=\x222\x22><div\x20style=\x22display:inline-block;text-decoration:underline\x20dotted;cursor:help;\x22\x20title=\x22Horizontal\x20linesplits\x20are\x20not\x20guaranteed\x20to\x20work.\x20Use\x20at\x20your\x20own\x20risk!\x22>Freeze\x20to\x20linesplit\x20right</div></td><td><input\x20type=\x22text\x22\x20spellcheck=\x22false\x22\x20data-donut-feature=\x22freezeRight\x22></td></tr>\x0a<tr><td\x20colspan=\x222\x22>Diagonal\x20linesplit\x20(8x)</td><td><input\x20type=\x22text\x22\x20spellcheck=\x22false\x22\x20data-donut-feature=\x22linesplit\x22></td></tr>\x0a<tr><td\x20colspan=\x222\x22>Freeze\x20mode</td><td><input\x20type=\x22text\x22\x20spellcheck=\x22false\x22\x20readonly><select\x20id=\x22donut-freezeMode\x22\x20data-donut-feature=\x22freezeMode\x22><option\x20value=\x22hold\x22>Hold\x20down</option><option\x20value=\x22toggle\x22>Toggle</option></select></td></tr>\x0a<tr><th\x20colspan=\x223\x22>Team\x20Scrimmage</th></tr>\x0a<tr><td>Leave\x20a\x20match</td><td>L</td><td><input\x20type=\x22text\x22\x20spellcheck=\x22false\x22\x20data-donut-feature=\x22leave\x22></td></tr>\x0a<tr><td\x20colspan=\x222\x22>Queue</td><td><input\x20type=\x22text\x22\x20spellcheck=\x22false\x22\x20data-donut-feature=\x22queue\x22></td></tr>\x0a<tr><td\x20colspan=\x222\x22>Default\x20gamemode</td><td><input\x20type=\x22text\x22\x20spellcheck=\x22false\x22\x20readonly><select\x20id=\x22donut-scrimmageMode\x22\x20data-donut-feature=\x22scrimmageMode\x22><option\x20value=\x220\x22>Team\x202v2</option><option\x20value=\x221\x22>Team\x202v2\x20[MegaSplit]</option><option\x20value=\x222\x22>Team\x202v2\x20[Extreme]</option><option\x20value=\x223\x22>Duel\x201v1</option></select></td></tr></tbody></table>\x0a<div\x20class=\x22donut-features-div\x22>You\x20should\x20only\x20use\x20the\x20<em>Leave\x20a\x20match</em>\x20hotkey<br>when\x20playing\x20with\x20random\x20teammates.</div>\x0a<div\x20class=\x22donut-features-div\x22>If\x20you\x20want\x20to\x20disable\x20a\x20hotkey,\x20type\x20Delete.</div>\x0a<div\x20class=\x22donut-features-div\x22><label><input\x20type=\x22checkbox\x22\x20class=\x22donut-checkbox\x22\x20id=\x22donut-hideScorePanel\x22\x20data-donut-feature=\x22hideScorePanel\x22>Hide\x20Score\x20Panel</label><br>\x0a<label><input\x20type=\x22checkbox\x22\x20class=\x22donut-checkbox\x22\x20id=\x22donut-hidePartyPanel\x22\x20data-donut-feature=\x22hidePartyPanel\x22>Hide\x20Party\x20Panel</label><br>\x0a<label><input\x20type=\x22checkbox\x22\x20class=\x22donut-checkbox\x22\x20id=\x22donut-hideLeaderboard\x22\x20data-donut-feature=\x22hideLeaderboard\x22>Hide\x20Leaderboard</label><br>\x0a<label><input\x20type=\x22checkbox\x22\x20class=\x22donut-checkbox\x22\x20id=\x22donut-scrimmageAutoRespawn\x22\x20data-donut-feature=\x22scrimmageAutoRespawn\x22>Scrimmage\x20Auto\x20Respawn</label><br>\x0a<label><input\x20type=\x22checkbox\x22\x20class=\x22donut-checkbox\x22\x20id=\x22donut-startWithScrimmage\x22\x20data-donut-feature=\x22startWithScrimmage\x22>Join\x20Scrimmage\x20as\x20I\x20open\x20the\x20game</label><br>\x0a<label><input\x20type=\x22checkbox\x22\x20class=\x22donut-checkbox\x22\x20id=\x22donut-leaveExperimental\x22\x20data-donut-feature=\x22leaveExperimental\x22>Use\x20my\x20<em>Leave\x20a\x20match</em>\x20hotkey\x20to\x20leave<br>my\x20team\x20in\x20the\x20other\x20gamemodes</label></div>\x0a<div\x20class=\x22donut-features-div\x22>You\x20can\x20support\x20the\x20developer\x20by\x20checking\x20out<br>his\x20YouTube\x20channel:</div>\x0a<a\x20href=\x22https://www.youtube.com/channel/UCIpCflcKEN9YgaO9qDahpRg\x22\x20target=\x22_blank\x22\x20class=\x22donut-channel-link\x22><span>YouTube</span></a>';if(_0x4eb608&&_0x3730bb){if(_0x5afcd6(_0x11ad51,'1.7.0')<0x0)_0x359ac5[_0x32e7cc(0x283)]='<div\x20class=\x22donut-features-div\x22\x20style=\x22padding:0\x200\x204px\x200;font:italic\x2018px\x20\x27Open\x20Sans\x27;\x22>Check\x20out\x20the\x20new\x20linesplit\x20features\x20below!</div>'+_0x359ac5['innerHTML'];else _0x5afcd6(_0x11ad51,'1.7.7')<0x0&&(_0x359ac5[_0x32e7cc(0x283)]=_0x32e7cc(0x1f3)+_0x359ac5[_0x32e7cc(0x283)]);}_0xfa5603[_0x32e7cc(0x2bb)](_0x359ac5);function _0xa12359(){var _0x1fe9ef=_0x32e7cc;_0xfa5603[_0x1fe9ef(0x1f8)]['display']==_0x1fe9ef(0x1e6)&&(window[_0x1fe9ef(0x275)]<_0x359ac5['offsetHeight']+0x14?(_0x359ac5[_0x1fe9ef(0x1f8)]['top']='0',_0x359ac5[_0x1fe9ef(0x1f8)][_0x1fe9ef(0x1cb)]='10px',_0x359ac5['style'][_0x1fe9ef(0x2aa)]=_0x1fe9ef(0x1df)):(_0x359ac5[_0x1fe9ef(0x1f8)][_0x1fe9ef(0x1f4)]=_0x1fe9ef(0x1d5),_0x359ac5['style']['margin']='0',_0x359ac5[_0x1fe9ef(0x1f8)][_0x1fe9ef(0x2aa)]='translate(-50%,\x20-50%)'));}window[_0x32e7cc(0x1c6)](_0x32e7cc(0x1d1),_0xa12359);function _0x5e054e(){var _0x52f560=_0x32e7cc;_0xfa5603[_0x52f560(0x1f8)]['display']=_0x52f560(0x2b4),_0x359ac5[_0x52f560(0x1f8)][_0x52f560(0x2a3)]=_0x52f560(0x1e6),_0x356064[_0x52f560(0x1f8)][_0x52f560(0x2a3)]=_0x52f560(0x2b4);}document[_0x32e7cc(0x1c6)](_0x32e7cc(0x1a9),function(_0xc57321){var _0x91ab7e=_0x32e7cc;if(_0xfa5603[_0x91ab7e(0x1f8)][_0x91ab7e(0x2a3)]==_0x91ab7e(0x1e6)&&_0xc57321[_0x91ab7e(0x25f)]!=_0x359ac5&&!_0x359ac5['contains'](_0xc57321[_0x91ab7e(0x25f)])&&_0xc57321[_0x91ab7e(0x25f)]!=_0x356064&&!_0x356064[_0x91ab7e(0x1ac)](_0xc57321[_0x91ab7e(0x25f)]))_0x5e054e();},!![]);var _0x270f8b=document[_0x32e7cc(0x2b0)](_0x32e7cc(0x1a4));_0x270f8b['style'][_0x32e7cc(0x19f)]=_0x32e7cc(0x24a),_0x359ac5[_0x32e7cc(0x2bb)](_0x270f8b);var _0x347555=_0xf41217[_0x32e7cc(0x242)]();_0x347555[_0x32e7cc(0x1f8)][_0x32e7cc(0x1b3)](_0x32e7cc(0x254),_0x32e7cc(0x25c),_0x32e7cc(0x245)),_0x347555[_0x32e7cc(0x202)]=_0x32e7cc(0x20e),_0x347555[_0x32e7cc(0x1c6)](_0x32e7cc(0x1a9),function(){var _0x44c13a=_0x32e7cc;_0xfa5603['style'][_0x44c13a(0x2a3)]='none';}),_0x270f8b[_0x32e7cc(0x2bb)](_0x347555);var _0x246644=_0x124311[_0x32e7cc(0x242)]();_0x246644[_0x32e7cc(0x1f8)][_0x32e7cc(0x1b3)]('border-radius',_0x32e7cc(0x2b2),_0x32e7cc(0x245)),_0x246644[_0x32e7cc(0x202)]=_0x32e7cc(0x1a1),_0x246644['addEventListener'](_0x32e7cc(0x1a9),function(){var _0xf8a560=_0x32e7cc;_0x359ac5[_0xf8a560(0x1f8)]['display']=_0xf8a560(0x2b4),_0x356064[_0xf8a560(0x1f8)][_0xf8a560(0x2a3)]=_0xf8a560(0x1e6);}),_0x270f8b['appendChild'](_0x246644);var _0x356064=_0x359ac5[_0x32e7cc(0x242)]();_0x356064[_0x32e7cc(0x1f8)][_0x32e7cc(0x1f4)]='50%',_0x356064[_0x32e7cc(0x1f8)]['display']='none',_0x356064['style'][_0x32e7cc(0x1cb)]='0',_0x356064[_0x32e7cc(0x1f8)]['width']=_0x32e7cc(0x279),_0x356064[_0x32e7cc(0x1f8)][_0x32e7cc(0x2aa)]=_0x32e7cc(0x1c0),_0x356064[_0x32e7cc(0x1f8)][_0x32e7cc(0x2ce)]=_0x32e7cc(0x2b1),_0x356064[_0x32e7cc(0x283)]=_0x32e7cc(0x1a7)+_0x48e2d9+'.</pre>',_0xfa5603['appendChild'](_0x356064);var _0xc889c0=_0x270f8b[_0x32e7cc(0x242)]();_0x356064[_0x32e7cc(0x2bb)](_0xc889c0);var _0x2352da=_0xf41217[_0x32e7cc(0x242)]();_0x2352da[_0x32e7cc(0x202)]='Go\x20Back',_0x2352da[_0x32e7cc(0x1c6)](_0x32e7cc(0x1a9),function(){var _0x4d01b4=_0x32e7cc;_0x356064[_0x4d01b4(0x1f8)][_0x4d01b4(0x2a3)]='none',_0x359ac5[_0x4d01b4(0x1f8)]['display']=_0x4d01b4(0x1e6);}),_0xc889c0[_0x32e7cc(0x2bb)](_0x2352da);var _0x592146=_0x124311[_0x32e7cc(0x242)]();_0x592146['innerText']=_0x32e7cc(0x258),_0x592146['addEventListener'](_0x32e7cc(0x1a9),function(){var _0x3a3b6a=_0x32e7cc;window[_0x3a3b6a(0x2c3)]('https://discord.gg/QJknuQF',_0x3a3b6a(0x240));}),_0xc889c0[_0x32e7cc(0x2bb)](_0x592146);var _0x1e50a6={'Escape':_0x32e7cc(0x2b7),'Minus':'-','Equal':'=','BracketLeft':'[','BracketRight':']','Control':_0x32e7cc(0x1bf),'Semicolon':';','Quote':'\x27','Backquote':'`','Backslash':'\x5c','Comma':',','Period':'.','Slash':'/','NumpadMultiply':'Numpad\x20*','CapsLock':_0x32e7cc(0x215),'ScrollLock':_0x32e7cc(0x1e1),'Numpad7':_0x32e7cc(0x2a5),'Numpad8':'Numpad\x208','Numpad9':'Numpad\x209','NumpadSubtract':'Numpad\x20-','Numpad4':_0x32e7cc(0x2bc),'Numpad5':_0x32e7cc(0x214),'Numpad6':_0x32e7cc(0x21e),'NumpadAdd':_0x32e7cc(0x1f7),'Numpad1':'Numpad\x201','Numpad2':_0x32e7cc(0x247),'Numpad3':'Numpad\x203','Numpad0':'Numpad\x200','NumpadDecimal':_0x32e7cc(0x29c),'NumpadEqual':'Numpad\x20=','NumpadEnter':'Enter','NumpadDivide':'Numpad\x20/','NumLock':_0x32e7cc(0x22e),'ArrowUp':_0x32e7cc(0x1bb),'PageUp':'Page\x20Up','ArrowLeft':_0x32e7cc(0x2a4),'ArrowRight':_0x32e7cc(0x25a),'ArrowDown':'Arrow\x20Down','PageDown':_0x32e7cc(0x269),'Meta':'Win\x20/\x20⌘','OS':_0x32e7cc(0x1b9)};function _0x4c49f6(_0x253ed8){var _0x4fa78c=_0x32e7cc;if(_0x253ed8[_0x4fa78c(0x253)]('Arrow')&&_0x253ed8[_0x4fa78c(0x253)](_0x4fa78c(0x2ad)))_0x253ed8=_0x253ed8[_0x4fa78c(0x2ab)](/Key|Digit|Left|Right/,'');if(_0x253ed8 in _0x1e50a6)return _0x1e50a6[_0x253ed8];return _0x253ed8;}var _0x418308={'skins':'K','names':'N','mass':'M','food':'F','chat':'H','tripleSplit':null,'hexaSplit':null,'minimap':null,'scorePanel':null,'partyPanel':null,'leaderboard':null,'autoDecline':null,'autoRespawn':null,'freeze':'S','freezeUp':null,'freezeDown':null,'freezeLeft':null,'freezeRight':null,'linesplit':null,'leave':'L','queue':null},_0x28efb6=document[_0x32e7cc(0x229)](_0x32e7cc(0x286)),_0x37a468=_0x32e7cc(0x2cf);function _0x1c0d01(_0x120e56){var _0x68049a=_0x32e7cc;for(var _0x62a787=0x0;_0x62a787<_0x28efb6[_0x68049a(0x27f)];_0x62a787++){var _0x38bcd6=_0x28efb6[_0x62a787]['dataset']['donutFeature'],_0x394396=_0x120e56[_0x38bcd6];typeof _0x394396=='undefined'&&_0x38bcd6 in _0x418308&&(_0x394396=_0x120e56[_0x38bcd6]=_0x418308[_0x38bcd6],localStorage[_0x68049a(0x232)]=JSON['stringify'](_0x120e56));if(_0x394396===null)continue;_0x28efb6[_0x62a787][_0x68049a(0x1e8)]=_0x394396;}}function _0x5049c5(_0x480586,_0x230331,_0x317f73,_0x13309d){var _0x5eec6a=_0x32e7cc,_0x355904;_0x480586='donut-'+_0x480586;try{if(!localStorage[_0x480586])throw null;_0x355904=JSON[_0x5eec6a(0x1a3)](localStorage[_0x480586]);if(_0x317f73)_0x317f73(_0x355904);}catch(_0x4d7f67){_0x355904=JSON['parse'](JSON[_0x5eec6a(0x296)](_0x230331));if(_0x4d7f67&&_0x13309d)console['error'](_0x13309d);localStorage[_0x480586]=JSON['stringify'](_0x355904);if(_0x317f73)_0x317f73(_0x355904);}return _0x355904;}var _0x1226fe=_0x5049c5(_0x32e7cc(0x276),_0x418308,_0x1c0d01,_0x37a468);function _0x110ee8(_0x590e67){var _0x4e6276=_0x32e7cc;_0x590e67[_0x4e6276(0x227)](),_0x590e67['stopPropagation']();var _0x3dfce5=this[_0x4e6276(0x24f)][_0x4e6276(0x288)],_0x20abdf=_0x4c49f6(_0x590e67[_0x4e6276(0x239)]);if(_0x20abdf&&_0x20abdf!=_0x1226fe[_0x3dfce5]&&_0x20abdf!=_0x4e6276(0x22d)){if(_0x20abdf==_0x4e6276(0x1f0))this[_0x4e6276(0x1e8)]='',_0x1226fe[_0x3dfce5]=null;else{for(var _0x40854e in _0x1226fe){if(_0x1226fe[_0x40854e]==_0x20abdf){_0x1226fe[_0x40854e]=null;for(var _0x195b65=0x0;_0x195b65<_0x28efb6[_0x4e6276(0x27f)];_0x195b65++){if(_0x28efb6[_0x195b65][_0x4e6276(0x24f)]['donutFeature']==_0x40854e){_0x28efb6[_0x195b65][_0x4e6276(0x1e8)]='';break;}}}}this[_0x4e6276(0x1e8)]=_0x1226fe[_0x3dfce5]=_0x20abdf;}localStorage[_0x4e6276(0x232)]=JSON['stringify'](_0x1226fe),this[_0x4e6276(0x235)]();}}for(var _0x98227a=0x0;_0x98227a<_0x28efb6[_0x32e7cc(0x27f)];_0x98227a++){_0x28efb6[_0x98227a][_0x32e7cc(0x1c6)](_0x32e7cc(0x266),_0x110ee8);}function _0x475316(_0x142dc2){var _0x4fd019=_0x32e7cc,_0x5e7063=_0x142dc2[_0x4fd019(0x1bc)];_0x142dc2[_0x4fd019(0x1bc)]=(_0x5e7063+(_0x5e7063==0x1)+0x1)%_0x142dc2[_0x4fd019(0x1fc)][_0x4fd019(0x27f)],$(_0x142dc2)[_0x4fd019(0x228)]();}function _0x46e179(_0x33e61a){var _0x2bdc06=_0x32e7cc;$(_0x33e61a)[_0x2bdc06(0x216)](_0x2bdc06(0x21a),!$(_0x33e61a)['prop'](_0x2bdc06(0x21a)))[_0x2bdc06(0x228)]();}function _0x3bf7d6(_0x66ab70){var _0x54a22b=_0x32e7cc;_0x66ab70[_0x54a22b(0x21a)]=!_0x66ab70[_0x54a22b(0x21a)],_0x66ab70[_0x54a22b(0x260)](new Event(_0x54a22b(0x228)));}function _0x56cf0a(){var _0x1d43ae=_0x32e7cc;if(_0x37211d['main']['style'][_0x1d43ae(0x2a3)]==_0x1d43ae(0x1e6))window[_0x1d43ae(0x27b)]({'keyCode':0x1b,'which':0x1b});}var _0x2acc32=_0x359ac5['cloneNode']();_0x2acc32[_0x32e7cc(0x1f8)][_0x32e7cc(0x1f4)]=_0x32e7cc(0x20a),_0x2acc32[_0x32e7cc(0x1f8)][_0x32e7cc(0x2a3)]=_0x32e7cc(0x2b4),_0x2acc32[_0x32e7cc(0x1f8)][_0x32e7cc(0x295)]='20px',_0x2acc32[_0x32e7cc(0x1f8)][_0x32e7cc(0x1f6)]=_0x32e7cc(0x2cb),_0x2acc32[_0x32e7cc(0x1f8)][_0x32e7cc(0x22f)]=_0x32e7cc(0x2a8),_0x2acc32[_0x32e7cc(0x1f8)]['transform']='translate(-50%,\x200%)',_0x2acc32[_0x32e7cc(0x1f8)]['zIndex']='3',document[_0x32e7cc(0x1d9)][_0x32e7cc(0x2bb)](_0x2acc32);var _0x323a87=0x0;function _0x383be7(_0x2c95b6,_0x3dcf61){var _0x55eb6b=_0x32e7cc;_0x2acc32[_0x55eb6b(0x283)]=_0x2c95b6,$(_0x2acc32)['fadeIn'](0x1f4);if(_0x323a87)clearTimeout(_0x323a87);_0x323a87=setTimeout(function(){var _0x2115cb=_0x55eb6b;$(_0x2acc32)[_0x2115cb(0x289)](0x1f4),_0x323a87=0x0;},_0x3dcf61);}var _0x814bbc={'freeze':{'id':0x1,'x':0.5,'y':0.5},'freezeUp':{'id':0x2,'x':0.5,'y':0x0},'freezeDown':{'id':0x3,'x':0.5,'y':0x1},'freezeLeft':{'id':0x4,'x':0x0,'y':0.5},'freezeRight':{'id':0x5,'x':0x1,'y':0.5}};function _0x3fd884(_0x273522){var _0x2f1397=_0x32e7cc,_0x309fc9=Object[_0x2f1397(0x276)](_0x814bbc)[_0x2f1397(0x1b5)](function(_0x432865){return _0x273522==_0x1226fe[_0x432865];});return _0x309fc9?_0x814bbc[_0x309fc9]:undefined;}var _0x49a92b=0x0,_0xefd002=0x0,_0x38ed21,_0x35e322=0x0,_0x2ee283=![];setTimeout(function _0x399bd6(){var _0x3cb513=_0x32e7cc;window[_0x3cb513(0x1e5)]?(_0x38ed21=window['onmousemove'],window[_0x3cb513(0x1e5)]=function(_0x24aea4){_0x49a92b=_0x24aea4['clientX'],_0xefd002=_0x24aea4['clientY'];if(_0x35e322==0x0)_0x38ed21(_0x24aea4);}):setTimeout(_0x399bd6,0xc8);},0xc8);function _0x5c5c79(_0x3b1d9=0x1){var _0xfcb869=_0x32e7cc;for(var _0x67c824=0x0;_0x67c824<_0x3b1d9;_0x67c824++){$(window)[_0xfcb869(0x272)]($[_0xfcb869(0x1ba)](_0xfcb869(0x266),{'keyCode':0x20,'which':0x20}));}}function _0x15e4a4(_0x1b7713,_0x94585c){var _0x3f3c3a=_0x32e7cc;return _0x94585c==_0x3f3c3a(0x200)&&!_0x1b7713['ctrlKey']&&!_0x1b7713[_0x3f3c3a(0x26f)]&&!_0x1b7713[_0x3f3c3a(0x1cc)]||_0x94585c==_0x3f3c3a(0x1bf)&&!_0x1b7713[_0x3f3c3a(0x231)]&&!_0x1b7713[_0x3f3c3a(0x26f)]&&!_0x1b7713['shiftKey']||_0x94585c==_0x3f3c3a(0x1b9)&&!_0x1b7713[_0x3f3c3a(0x231)]&&!_0x1b7713['ctrlKey']&&!_0x1b7713[_0x3f3c3a(0x1cc)]||_0x94585c=='Shift'&&!_0x1b7713[_0x3f3c3a(0x231)]&&!_0x1b7713['ctrlKey']&&!_0x1b7713['metaKey'];}window[_0x32e7cc(0x1c6)](_0x32e7cc(0x266),function(_0x58246f){var _0x2a57d2=_0x32e7cc;if(_0x58246f[_0x2a57d2(0x239)]==undefined)return;var _0x33c64a=_0x4c49f6(_0x58246f[_0x2a57d2(0x239)]),_0x37bd99=_0x15e4a4(_0x58246f,_0x33c64a);if(_0x37bd99||!_0x58246f[_0x2a57d2(0x231)]&&!_0x58246f[_0x2a57d2(0x201)]&&!_0x58246f[_0x2a57d2(0x26f)]){if(!_0x37bd99){var _0x10244c=_0x58246f[_0x2a57d2(0x20f)]||_0x58246f[_0x2a57d2(0x1c4)]||0x0;if(_0x10244c==0xd&&document['activeElement']&&document[_0x2a57d2(0x1b6)]['id']==_0x2a57d2(0x1be))_0x5a1fbb();else{if(_0x10244c==0x1b){if(!_0x4317f0)_0x4317f0=!![];if(_0x2acc32[_0x2a57d2(0x1fd)])$(_0x2acc32)[_0x2a57d2(0x289)](0x1f4);}}}if((_0x37bd99||!_0x58246f[_0x2a57d2(0x1cc)])&&document['activeElement']['tagName']!=_0x2a57d2(0x2c1)&&document['activeElement'][_0x2a57d2(0x1cd)]!=_0x2a57d2(0x22c))switch(_0x33c64a){case _0x1226fe[_0x2a57d2(0x222)]:_0x475316(_0x37211d[_0x2a57d2(0x2c4)]);break;case _0x1226fe[_0x2a57d2(0x248)]:_0x475316(_0x37211d[_0x2a57d2(0x217)]);break;case _0x1226fe[_0x2a57d2(0x285)]:_0x46e179(_0x37211d[_0x2a57d2(0x1ce)]);break;case _0x1226fe[_0x2a57d2(0x234)]:_0x46e179(_0x37211d[_0x2a57d2(0x219)]);break;case _0x1226fe[_0x2a57d2(0x1f9)]:_0x46e179(_0x37211d[_0x2a57d2(0x284)]);break;case _0x1226fe[_0x2a57d2(0x238)]:_0x5c5c79(0x3);break;case _0x1226fe['hexaSplit']:_0x5c5c79(0x6);break;case _0x1226fe['minimap']:_0x46e179(_0x37211d[_0x2a57d2(0x278)]);break;case _0x1226fe[_0x2a57d2(0x2c6)]:_0x3bf7d6(_0xb1e513[_0x2a57d2(0x1ad)]);break;case _0x1226fe[_0x2a57d2(0x20b)]:_0x3bf7d6(_0xb1e513[_0x2a57d2(0x27a)]);break;case _0x1226fe[_0x2a57d2(0x1d3)]:_0x3bf7d6(_0xb1e513['hideLeaderboard']);break;case _0x1226fe[_0x2a57d2(0x2cc)]:_0x46e179(_0x37211d[_0x2a57d2(0x23f)]),_0x383be7(_0x2a57d2(0x1b4)+(_0x37211d[_0x2a57d2(0x23f)]['checked']?'On':_0x2a57d2(0x2c9))+'</strong>',0x9c4);break;case _0x1226fe[_0x2a57d2(0x281)]:var _0x4df8f8=_0x22c06a?_0xb1e513[_0x2a57d2(0x29a)]:_0x37211d['cAutoRespawn'];if(_0x22c06a)_0x3bf7d6(_0x4df8f8);else _0x46e179(_0x4df8f8);_0x383be7(_0x2a57d2(0x251)+(_0x22c06a?_0x2a57d2(0x25d):'')+':\x20<strong>'+(_0x4df8f8[_0x2a57d2(0x21a)]?'On':_0x2a57d2(0x2c9))+_0x2a57d2(0x23d),0x9c4);break;case _0x1226fe[_0x2a57d2(0x1ea)]:_0x5c5c79(0x3);_0x37211d[_0x2a57d2(0x24c)]['style'][_0x2a57d2(0x2a3)]=='none'&&(_0x37211d[_0x2a57d2(0x24c)]['style'][_0x2a57d2(0x24b)]=_0x2a57d2(0x1de),_0x37211d[_0x2a57d2(0x24c)][_0x2a57d2(0x1f8)][_0x2a57d2(0x2a3)]=_0x2a57d2(0x1e6),setTimeout(function(){var _0x4b8f2a=_0x2a57d2;_0x37211d[_0x4b8f2a(0x24c)][_0x4b8f2a(0x1f8)][_0x4b8f2a(0x2a3)]='none',_0x37211d[_0x4b8f2a(0x24c)][_0x4b8f2a(0x1f8)][_0x4b8f2a(0x24b)]=_0x4b8f2a(0x287);},0x41a));break;case _0x1226fe[_0x2a57d2(0x282)]:if(_0x37211d['scrimmageBtnLeave'][_0x2a57d2(0x1f8)][_0x2a57d2(0x2a3)]==_0x2a57d2(0x1e6))$(_0x37211d[_0x2a57d2(0x2bf)])[_0x2a57d2(0x1a9)]();else{if(_0x37211d[_0x2a57d2(0x1b8)][_0x2a57d2(0x1f8)][_0x2a57d2(0x2a3)]==_0x2a57d2(0x1e6))$(_0x37211d[_0x2a57d2(0x220)])[_0x2a57d2(0x1a9)]();}_0x56cf0a();break;case _0x1226fe[_0x2a57d2(0x28a)]:if(_0x117b15['leaveExperimental']||_0x5423aa){var _0x2714f9=_0x37211d[_0x2a57d2(0x21b)][_0x2a57d2(0x1f8)]['display']==_0x2a57d2(0x2b4);_0x2714f9&&(_0x37211d[_0x2a57d2(0x21b)]['style'][_0x2a57d2(0x1c8)]='0',_0x37211d['chatPanel'][_0x2a57d2(0x1f8)]['display']='block'),$(_0x37211d['chatInput'])[_0x2a57d2(0x26a)](_0x2a57d2(0x221))['focus']()[_0x2a57d2(0x272)]($[_0x2a57d2(0x1ba)](_0x2a57d2(0x1c2),{'keyCode':0xd,'which':0xd}))[_0x2a57d2(0x235)](),_0x5423aa=![],_0x2714f9&&(_0x37211d[_0x2a57d2(0x21b)][_0x2a57d2(0x1f8)][_0x2a57d2(0x2a3)]='none',_0x37211d['chatPanel']['style'][_0x2a57d2(0x1c8)]='1'),_0x56cf0a();}break;default:if(_0x38ed21){var _0x39a8fc=_0x3fd884(_0x33c64a);if(_0x39a8fc){if(_0x35e322!=_0x39a8fc['id'])_0x35e322=_0x39a8fc['id'],_0x2ee283=!![],_0x38ed21({'clientX':window[_0x2a57d2(0x2c7)]/0x2,'clientY':window[_0x2a57d2(0x275)]/0x2}),setTimeout(function(){var _0x394a35=_0x2a57d2;_0x38ed21({'clientX':window[_0x394a35(0x2c7)]*_0x39a8fc['x'],'clientY':window['innerHeight']*_0x39a8fc['y']});},0x64);else _0x1772eb[_0x2a57d2(0x271)]==_0x2a57d2(0x249)&&!_0x2ee283&&(_0x35e322=0x0,_0x38ed21({'clientX':_0x49a92b,'clientY':_0xefd002}));}}}}}),window['addEventListener'](_0x32e7cc(0x1c2),function(_0x4939d3){var _0x4da3f6=_0x32e7cc;if(_0x4939d3[_0x4da3f6(0x239)]==undefined)return;var _0x16fa66=_0x4c49f6(_0x4939d3['code']);if((_0x15e4a4(_0x4939d3,_0x16fa66)||!_0x4939d3[_0x4da3f6(0x231)]&&!_0x4939d3['ctrlKey']&&!_0x4939d3[_0x4da3f6(0x26f)]&&!_0x4939d3[_0x4da3f6(0x1cc)])&&document[_0x4da3f6(0x1b6)][_0x4da3f6(0x1cd)]!='INPUT'&&document[_0x4da3f6(0x1b6)][_0x4da3f6(0x1cd)]!='TEXTAREA'){if(_0x38ed21){if(_0x1772eb[_0x4da3f6(0x271)]=='hold'){var _0x10d32=_0x3fd884(_0x16fa66);_0x10d32&&_0x35e322==_0x10d32['id']&&(_0x35e322=0x0,_0x38ed21({'clientX':_0x49a92b,'clientY':_0xefd002}));}else _0x2ee283=![];}}});function _0x5204c1(){var _0x1d6f80=_0x32e7cc;return _0x37211d[_0x1d6f80(0x1da)][_0x1d6f80(0x1f8)][_0x1d6f80(0x2a3)]==_0x1d6f80(0x1e6);}var _0x20407e;setTimeout(function _0x35ce8c(){var _0x39c80a=_0x32e7cc;window[_0x39c80a(0x27b)]?(_0x20407e=window[_0x39c80a(0x27b)],window[_0x39c80a(0x27b)]=function(_0xdc2e9c){var _0x4472f3=_0x39c80a;try{(_0x1772eb['freezeMode']==_0x4472f3(0x249)||!_0x5204c1()||_0xdc2e9c[_0x4472f3(0x20f)]!=JSON[_0x4472f3(0x1a3)](localStorage[_0x4472f3(0x291)])[_0x4472f3(0x2a7)])&&_0x20407e(_0xdc2e9c);}catch(_0x550d9c){_0x20407e(_0xdc2e9c);}},window[_0x39c80a(0x1c6)]('keyup',function(_0x43edfd){var _0xa2cee0=_0x39c80a;_0x1772eb[_0xa2cee0(0x271)]==_0xa2cee0(0x241)&&_0x5204c1()&&_0x43edfd['which']==JSON[_0xa2cee0(0x1a3)](localStorage[_0xa2cee0(0x291)])[_0xa2cee0(0x2a7)]&&_0x20407e(_0x43edfd);})):setTimeout(_0x35ce8c,0xc8);},0xc8);var _0x1c7733={'hideScorePanel':![],'hidePartyPanel':![],'hideLeaderboard':![],'scrimmageAutoRespawn':!![],'startWithScrimmage':![],'leaveExperimental':![]},_0xb1e513={};for(var _0x10f0f8 in _0x1c7733){_0xb1e513[_0x10f0f8]=document[_0x32e7cc(0x27e)](_0x32e7cc(0x292)+_0x10f0f8);}var _0x2a5ffc=_0x32e7cc(0x2cd);function _0x3ed25f(_0x36a389){var _0x5a4d7a=_0x32e7cc;for(var _0x1484fe in _0xb1e513){var _0x381823=_0x36a389[_0x1484fe];typeof _0x381823==_0x5a4d7a(0x2a9)&&(_0x381823=_0x36a389[_0x1484fe]=_0x1c7733[_0x1484fe],localStorage['donut-switches']=JSON['stringify'](_0x36a389));if(typeof _0x381823==_0x5a4d7a(0x1f2))_0xb1e513[_0x1484fe][_0x5a4d7a(0x21a)]=_0x381823;else throw _0x2a5ffc;}}var _0x117b15=_0x5049c5(_0x32e7cc(0x262),_0x1c7733,_0x3ed25f,_0x2a5ffc),_0x311b40=document[_0x32e7cc(0x267)]('.options-table>thead:nth-of-type(6)'),_0x40bc7f=_0x311b40['cloneNode'](!![]);_0x40bc7f[_0x32e7cc(0x1ee)][_0x32e7cc(0x1ee)][_0x32e7cc(0x2c5)]=_0x32e7cc(0x2c2),_0x311b40[_0x32e7cc(0x1c7)][_0x32e7cc(0x1c5)](_0x40bc7f,_0x311b40);var _0x110655=document[_0x32e7cc(0x2b0)](_0x32e7cc(0x2ae));_0x311b40[_0x32e7cc(0x1c7)][_0x32e7cc(0x1c5)](_0x110655,_0x311b40);function _0x2fbc48(_0x25f47e,_0x289d2f){var _0x5470ea=_0x32e7cc,_0x4c95e7=document[_0x5470ea(0x2b0)]('td');_0x4c95e7[_0x5470ea(0x256)]='4',_0x4c95e7[_0x5470ea(0x1f8)][_0x5470ea(0x2c0)]=_0x5470ea(0x26b),_0x4c95e7[_0x5470ea(0x1f8)][_0x5470ea(0x257)]=_0x5470ea(0x1d7),_0x4c95e7[_0x5470ea(0x1f8)][_0x5470ea(0x21d)]=_0x5470ea(0x1d8),_0x4c95e7[_0x5470ea(0x283)]=_0x289d2f;var _0x23bed8=document[_0x5470ea(0x2b0)]('input');_0x23bed8[_0x5470ea(0x1a8)]=_0x5470ea(0x265),_0x23bed8[_0x5470ea(0x1d2)]=_0x5470ea(0x1c1),_0x23bed8[_0x5470ea(0x24f)]['donutFeature']=_0x25f47e,_0x23bed8[_0x5470ea(0x1f8)][_0x5470ea(0x2c0)]=_0x5470ea(0x25e),_0x23bed8['style']['top']=_0x5470ea(0x27d),_0x23bed8[_0x5470ea(0x1f8)][_0x5470ea(0x208)]=_0x5470ea(0x27d),_0x4c95e7[_0x5470ea(0x2bb)](_0x23bed8);var _0x2b4205=document[_0x5470ea(0x2b0)]('tr');return _0x2b4205[_0x5470ea(0x2bb)](_0x4c95e7),_0x110655[_0x5470ea(0x2bb)](_0x2b4205),_0x23bed8['checked']=_0x117b15[_0x25f47e],_0x23bed8;}var _0x2e563b={};for(_0x10f0f8 in _0x1c7733){var _0x11d306=_0xb1e513[_0x10f0f8],_0x1a8027=_0x11d306['parentNode']['innerText'];if(_0x10f0f8==_0x32e7cc(0x22b))_0x1a8027=_0x32e7cc(0x252);_0x2e563b[_0x10f0f8]=_0x2fbc48(_0x10f0f8,_0x1a8027);}function _0x268b02(_0x200aca){var _0x45064e=_0x32e7cc,_0x210c84=this['dataset'][_0x45064e(0x288)];_0x117b15[_0x210c84]=this[_0x45064e(0x21a)],localStorage[_0x45064e(0x29e)]=JSON[_0x45064e(0x296)](_0x117b15),_0xb1e513[_0x210c84][_0x45064e(0x21a)]=_0x2e563b[_0x210c84][_0x45064e(0x21a)]=this['checked'];switch(_0x210c84){case _0x45064e(0x1ad):if(this['checked'])_0x35684c();else _0x37211d[_0x45064e(0x20b)][_0x45064e(0x1f8)][_0x45064e(0x2c0)]='relative',_0x37211d[_0x45064e(0x20b)][_0x45064e(0x1f8)][_0x45064e(0x1f4)]='10px',_0x37211d[_0x45064e(0x2c6)][_0x45064e(0x1f8)][_0x45064e(0x1c8)]='1';break;case _0x45064e(0x27a):_0x7aa8a0(_0x37211d[_0x45064e(0x20b)],!this[_0x45064e(0x21a)]);break;case _0x45064e(0x1fa):_0x7aa8a0(_0x37211d[_0x45064e(0x26d)],!this[_0x45064e(0x21a)]),_0x7aa8a0(_0x37211d['extraPanel'],!this[_0x45064e(0x21a)]);break;case'scrimmageAutoRespawn':if(this[_0x45064e(0x21a)]&&_0x5423aa)_0x4ae1da();}}for(_0x10f0f8 in _0xb1e513){_0xb1e513[_0x10f0f8][_0x32e7cc(0x1c6)](_0x32e7cc(0x228),_0x268b02),_0x2e563b[_0x10f0f8][_0x32e7cc(0x1c6)]('change',_0x268b02);}function _0x35684c(){var _0x259f12=_0x32e7cc;_0x37211d[_0x259f12(0x2c6)][_0x259f12(0x1f8)][_0x259f12(0x1c8)]='0',_0x37211d['partyPanel']['style']['position']=_0x259f12(0x25e),_0x37211d[_0x259f12(0x20b)][_0x259f12(0x1f8)][_0x259f12(0x1f4)]='0';}if(_0x117b15['hideScorePanel'])_0x35684c();function _0x7aa8a0(_0x317a90,_0x489055){var _0x506c9a=_0x32e7cc;_0x317a90['style']['visibility']=_0x489055?_0x506c9a(0x287):'hidden';}_0x117b15[_0x32e7cc(0x1fa)]&&(_0x7aa8a0(_0x37211d['leaderboardPanel'],![]),_0x7aa8a0(_0x37211d[_0x32e7cc(0x261)],![]));if(_0x117b15[_0x32e7cc(0x27a)])_0x7aa8a0(_0x37211d[_0x32e7cc(0x20b)],![]);var _0x5ed684=_0x5049c5(_0x32e7cc(0x26c),{'scrimmageModeAdjusted':_0x4eb608&&_0x5afcd6(_0x11ad51,_0x32e7cc(0x2be))<0x0?0x0:0x1});function _0x343009(){var _0x3bed2e=_0x32e7cc;_0x5ed684[_0x3bed2e(0x2bd)]++,localStorage[_0x3bed2e(0x1fe)]=JSON[_0x3bed2e(0x296)](_0x5ed684);}var _0x5498ed={'freezeMode':_0x32e7cc(0x241),'scrimmageMode':'2'},_0x38c2a6=[document[_0x32e7cc(0x27e)](_0x32e7cc(0x28b)),document[_0x32e7cc(0x27e)](_0x32e7cc(0x203))];function _0x31a50f(_0x4e5e4b){var _0x11daef=_0x32e7cc;for(var _0x440723=0x0;_0x440723<_0x38c2a6['length'];_0x440723++){var _0x56b2fa=_0x38c2a6[_0x440723][_0x11daef(0x24f)][_0x11daef(0x288)],_0x55d5d9=_0x4e5e4b[_0x56b2fa],_0xf3c2f3=_0x56b2fa==_0x11daef(0x29d)&&_0x5ed684[_0x11daef(0x2bd)]===0x0;_0xf3c2f3&&(_0x5ed684[_0x11daef(0x2bd)]++,localStorage[_0x11daef(0x1fe)]=JSON[_0x11daef(0x296)](_0x5ed684));typeof _0x55d5d9==_0x11daef(0x2a9)&&_0x56b2fa in _0x5498ed&&(_0xf3c2f3=![],_0x55d5d9=_0x4e5e4b[_0x56b2fa]=_0x5498ed[_0x56b2fa],localStorage[_0x11daef(0x1a0)]=JSON[_0x11daef(0x296)](_0x4e5e4b));_0xf3c2f3&&_0x4eb608&&_0x5afcd6(_0x11ad51,'1.7.11')<0x0&&+_0x55d5d9>0x0&&(_0x55d5d9=_0x4e5e4b[_0x56b2fa]=+_0x55d5d9-0x1+'',localStorage['donut-options']=JSON[_0x11daef(0x296)](_0x4e5e4b));var _0x10c25e=_0x38c2a6[_0x440723][_0x11daef(0x267)](_0x11daef(0x263)+_0x55d5d9+'\x22]');if(_0x10c25e)_0x38c2a6[_0x440723]['selectedIndex']=_0x10c25e[_0x11daef(0x297)],_0x38c2a6[_0x440723][_0x11daef(0x246)][_0x11daef(0x1e8)]=_0x10c25e[_0x11daef(0x2c5)];else throw null;}}var _0x1772eb=_0x5049c5(_0x32e7cc(0x1fc),_0x5498ed,_0x31a50f);for(var _0x50a394=0x0;_0x50a394<_0x38c2a6[_0x32e7cc(0x27f)];_0x50a394++){_0x38c2a6[_0x50a394][_0x32e7cc(0x1c6)](_0x32e7cc(0x228),function(_0x413fd8){var _0x5c628d=_0x32e7cc,_0x2ee9b3=this['dataset'][_0x5c628d(0x288)];_0x1772eb[_0x2ee9b3]=this[_0x5c628d(0x1fc)][this[_0x5c628d(0x1bc)]][_0x5c628d(0x1e8)],localStorage[_0x5c628d(0x1a0)]=JSON[_0x5c628d(0x296)](_0x1772eb),this[_0x5c628d(0x246)][_0x5c628d(0x1e8)]=this[_0x5c628d(0x1fc)][this[_0x5c628d(0x1bc)]][_0x5c628d(0x2c5)];});}var _0x5423aa=![],_0x447432=0x0,_0x46aa9e=0x0;_0x37211d[_0x32e7cc(0x220)]['addEventListener'](_0x32e7cc(0x1a9),function(){_0x5423aa=!![];if(_0x117b15['scrimmageAutoRespawn'])_0x4ae1da();});function _0x5c6c64(){_0x5423aa=![],_0x46aa9e&&(clearTimeout(_0x46aa9e),_0x46aa9e=_0x447432=0x0);}_0x37211d[_0x32e7cc(0x2bf)][_0x32e7cc(0x1c6)]('click',_0x5c6c64);function _0x4ae1da(){var _0x290f45=_0x32e7cc,_0x3a8e0a=_0x37211d[_0x290f45(0x23c)],_0x4d9e57=parseInt(_0x3a8e0a[_0x290f45(0x202)],0xa);if(_0x447432)clearInterval(_0x447432);_0x447432=setInterval(function(){var _0x4375a1=_0x290f45;if(_0x117b15[_0x4375a1(0x29a)]&&_0x5423aa){var _0x469bba=parseInt(_0x3a8e0a[_0x4375a1(0x202)],0xa);_0x469bba!=_0x4d9e57&&(_0x4d9e57=_0x469bba,_0x4d9e57===0x0&&(_0x37211d['mainScrimmage']['style']['display']=='none'&&(_0x46aa9e=setTimeout(function(){var _0x13a0d4=_0x4375a1;_0x117b15[_0x13a0d4(0x29a)]&&_0x5423aa&&($(_0x37211d['btnPlay'])[_0x13a0d4(0x1a9)](),_0x46aa9e=0x0,_0x4ae1da());},0x2710)),clearInterval(_0x447432),_0x447432=0x0));}else clearInterval(_0x447432),_0x447432=0x0;},0x1f4);}var _0x4317f0=![];function _0x4735b6(){var _0x144d42=_0x32e7cc,_0x631b=document[_0x144d42(0x1b1)]('server-active')[0x0][_0x144d42(0x1aa)]('region'),_0x286fa4=_0x631b=='eu'?_0x144d42(0x1ae):_0x631b=='na'?'s_Jet':'s_Citrus',_0x1eddbc=setInterval(function(){var _0x3d1ed0=_0x144d42;if(document[_0x3d1ed0(0x1b1)]('server-selected')[_0x3d1ed0(0x27f)]){clearInterval(_0x1eddbc);var _0xbc5334=document[_0x3d1ed0(0x27e)](_0x286fa4);if(!_0xbc5334)return;$(_0xbc5334)['click'](),$(_0x37211d['btnPlay'])[_0x3d1ed0(0x1a9)](),setTimeout(function(){var _0x5b24c1=_0x3d1ed0;if(!_0x4317f0&&!_0x22c06a)_0x383be7(_0x5b24c1(0x273),0x4e20);},0x1388);}},0xfa);}if(_0x117b15[_0x32e7cc(0x205)])_0x4735b6();var _0x1e6545=![];function _0x3348f7(){var _0x1bb39e=_0x32e7cc,_0x547951=document[_0x1bb39e(0x1b1)](_0x1bb39e(0x224))[0x0];return _0x547951&&_0x547951['lastElementChild'][_0x1bb39e(0x2c5)]==_0x1bb39e(0x243);}var _0x22c06a=![],_0x1bdf7b=![];function _0x5a1fbb(){if(!_0x1bdf7b){if(!_0x3348f7())_0x5c6c64(),_0x22c06a=![];else{if(!_0x22c06a){_0x1bdf7b=!![];var _0x37e66e=setInterval(function(){var _0x6de99e=_0x3287;if(_0x37211d[_0x6de99e(0x1b8)]['style'][_0x6de99e(0x2a3)]==_0x6de99e(0x1e6)){!_0x1e6545&&($(_0x37211d[_0x6de99e(0x1e0)])[_0x6de99e(0x26a)](_0x1772eb[_0x6de99e(0x29d)])[_0x6de99e(0x228)](),_0x1e6545=!![]);clearTimeout(_0x364f9c),clearInterval(_0x37e66e),_0x22c06a=!![],_0x1bdf7b=![];if(_0x117b15[_0x6de99e(0x205)]&&_0x2acc32['offsetHeight'])_0x2acc32[_0x6de99e(0x1f8)][_0x6de99e(0x2a3)]=_0x6de99e(0x2b4);}},0x64),_0x364f9c=setTimeout(function(){clearInterval(_0x37e66e),_0x1bdf7b=![];},0x61a8);}}}}_0x37211d['btnPlay']['addEventListener']('click',_0x5a1fbb),_0x37211d[_0x32e7cc(0x236)]['addEventListener'](_0x32e7cc(0x1a9),_0x5a1fbb);}()));function _0x2db9(){var _0x43bff6=['15px','autoRespawn','queue','innerHTML','cHideChat','mass','.donut-features-table\x20input[type=\x22text\x22][data-donut-feature]','visible','donutFeature','fadeOut','leave','donut-freezeMode','inline-block','2914870rbjqZu','76100etlZiU','main-bottom-right','nowrap','keybinds','donut-','3px\x20auto\x200','8ECFxVs','lineHeight','stringify','index','push','stats','scrimmageAutoRespawn','main-bottom-stats','Numpad\x20.','scrimmageMode','donut-switches','border-box','score-panel','height','sheet','display','Arrow\x20Left','Numpad\x207','cAutoRespawn','kFreezeMouse','0\x202px\x203px\x20rgba(0,0,0,.25)','undefined','transform','replace','btn-play','Bracket','tbody','none\x20!important','createElement','\x22Segoe\x20UI\x22,\x20\x22Open\x20Sans\x22,\x20Arial,\x20Helvetica,\x20sans-serif','3px\x2010px\x2010px\x203px','0\x203px','none','chat-input','\x22!\x22','Esc','color','2xxptFa','bottom','appendChild','Numpad\x204','scrimmageModeAdjusted','1.7.11','btnLeaveMatch','position','INPUT','Options\x20by\x20Donut','open','sShowSkins','textContent','scorePanel','innerWidth','center','Off','split','rgba(42,42,42,.9)','autoDecline','Gota.io\x20Features\x20by\x20Donut:\x20An\x20error\x20occurred.\x20We\x20had\x20to\x20reset\x20your\x20settings.','fontFamily','Gota.io\x20Features\x20by\x20Donut:\x20An\x20error\x20occurred.\x20We\x20had\x20to\x20reset\x20your\x20custom\x20keys.','marginTop','donut-options','Report\x20bug','-4px','parse','div','5px\x200','4px\x208px\x204px\x205.5px','<p\x20style=\x22margin:0.12em\x200\x200.72em;\x22>You\x20will\x20be\x20redirected\x20to\x20a\x20channel\x20in\x20Gota\x27s\x20official\x20Discord\x20server\x20where\x20you\x20can\x20report\x20issues\x20and\x20bugs\x20you\x20come\x20across\x20in\x20the\x20game,\x20including\x20those\x20caused\x20by\x20use\x20of\x20Gota.io\x20Features\x20by\x20Donut.</p>\x0a<p\x20style=\x22margin:0.72em\x200\x200;font-size:18px;font-weight:bold;\x22>Please\x20include\x20the\x20following\x20sentence\x20in\x20your\x20report:</p><pre\x20style=\x22margin-top:0.1em;user-select:text;\x22>I\x20am\x20using\x20Features\x20by\x20Donut\x20version\x20','type','click','getAttribute','7442127XohGuI','contains','hideScorePanel','s_Beta','extra-panel','scrimmage-mode-select','getElementsByClassName','0\x201px\x200\x20rgba(0,0,0,0.05)','setProperty','Auto\x20Decline\x20Party\x20Invites:\x20<strong>','find','activeElement','100','mainScrimmage','Win\x20/\x20⌘','Event','Arrow\x20Up','selectedIndex','donut-blackout','name-box','Ctrl','translate(-50%,\x20-50%)','checkbox-options','keyup','2px','keyCode','insertBefore','addEventListener','parentNode','opacity','1.7.7','fontSize','margin','shiftKey','tagName','cShowMass','head','#cc181e','resize','className','leaderboard','6px','50%','13.3333px','22px','normal','body','scoreMouse','float','85px','7kPTlEO','hidden','translate(-50%,\x200%)','scrimmageModeSelect','Scroll\x20Lock','1.7.12','8px','main-bottom-left','onmousemove','block','map','value','#e62117','linesplit','donut-version','143px','borderRadius','firstElementChild','chat-panel','Delete','993784LtYNUt','boolean','<div\x20style=\x22padding-bottom:12px;border-bottom:1px\x20solid\x20#b3b3b3;margin-bottom:12px;font-family:\x27Segoe\x20UI\x27,\x20\x27Open\x20Sans\x27,\x20sans-serif;\x22>\x0a<div\x20class=\x22donut-features-div\x22\x20style=\x22padding:0\x200\x204px\x200;\x22>You\x20can\x20now\x20select\x20<strong>Team\x202v2\x20[Extreme]</strong><br>as\x20your\x20default\x20scrimmage\x20gamemode.</div>\x0a<div\x20class=\x22donut-features-div\x22\x20style=\x22padding:0\x200\x204px\x200;\x22>Your\x20freeze\x20mode\x20(see\x20Linesplit\x20section\x20below)<br>now\x20applies\x20to\x20the\x20<strong>Freeze\x20Mouse</strong>\x20keybind<br>you\x20can\x20set\x20in\x20Gota\x27s\x20Options\x20menu.</div>\x0a</div>','top','4331103sOEVoX','backgroundColor','Numpad\x20+','style','chat','hideLeaderboard','score-mouse','options','offsetHeight','donut-info','rgba(0,0,0,.5)','Alt','ctrlKey','innerText','donut-scrimmageMode','Open\x20Sans','startWithScrimmage','insertRule','auto','right','leaderboard-panel','10px','partyPanel','4462056gvhdaH','gota-btn\x20bottom-btn','Done','which','self','1.6','#363636','solid\x201px\x20transparent','Numpad\x205','Caps\x20Lock','prop','sShowNames','cssRules','cHideFood','checked','chatPanel','2px\x208px','whiteSpace','Numpad\x206','middle','btnQueue','/leave','skins','test','server-selected','1.6.3','red','preventDefault','change','querySelectorAll','16px','leaveExperimental','TEXTAREA','Unidentified','Num\x20Lock','boxShadow','prototype','altKey','donut-keys','party-panel','food','blur','btnSpec','btn-queue','tripleSplit','code','104px','left','playerCells','</strong>','white','cAutoDecline','_blank','hold','cloneNode','Scrimmage','1.7.0','important','previousElementSibling','Numpad\x202','names','toggle','12px','visibility','main','padding','boxSizing','dataset','32px','Auto\x20Respawn','Use\x20my\x20<em>Leave\x20a\x20match</em>\x20hotkey\x20to\x20leave\x20my\x20team\x20in\x20the\x20other\x20gamemodes','indexOf','border-radius','6492680SgLPMw','colSpan','paddingRight','Continue','width','Arrow\x20Right','overflow','10px\x203px\x203px\x2010px','\x20in\x20Team\x20Scrimmage','absolute','target','dispatchEvent','extraPanel','switches','option[value=\x22','no-repeat\x20url(//s.ytimg.com/yts/imgbin/www-hitchhiker-vfl-Nn88d.png)\x20-721px\x20-88px','checkbox','keydown','querySelector','btn-leave-match','Page\x20Down','val','relative','info','leaderboardPanel','collapse','metaKey','.donut-features-btn::before','freezeMode','trigger','It\x20looks\x20like\x20the\x20server\x20is\x20not\x20responding.<br>You\x20may\x20want\x20to\x20press\x20<strong>Esc</strong>\x20to\x20go\x20back\x20to\x20the\x20game\x20menu.','max-content','innerHeight','keys','Features\x20by\x20Donut','cHideMinimap','500px','hidePartyPanel','onkeydown','1.5.3','1px','getElementById','length'];_0x2db9=function(){return _0x43bff6;};return _0x2db9();}
+(function() {
+    'use strict';
+
+    // Configuration defaults
+    const PATH1_MIN_DELAY = 755; // Minimum delay for Triple split 16x16 split for 1 single piece
+    const PATH2_MIN_DELAY = 785; // Minimum delay for 16x16 split
+    const PATH3_MIN_DELAY = 800; // Minimum delay for 16x256 split
+    const PATH4_MIN_DELAY = 815; // Minimum delay for Penta Split 32x32 split
+    const PATH5_MIN_DELAY = 830; // Minimum delay for Octo Split 32x256 split
+    const EDGE_TOUCH_DISTANCE = 1; // Distance for "touching" the edge in pixels
+    const BASE_DISTANCE = 15; // Base threshold for "close" (in pixels)
+
+    const defaultConfig = {
+        hotkeyPentaSplit: '3',
+        hotkeyOctoSplit: '4',
+        hotkeyTripleSplit: '5',
+        hotkey16x256Split: '6',  // Add the new hotkey here
+        hotkey16x16Long: '7', // Add this line
+        hotkey16xSplit: '8', // New hotkey for 16x split
+        hotkey32xSplit: '9', // New hotkey for 32x split
+
+    };
+
+    // Load configuration from localStorage or use defaults
+    const config = {
+        hotkeyPentaSplit: localStorage.getItem('hotkeyPentaSplit') || defaultConfig.hotkeyPentaSplit,
+        hotkeyOctoSplit: localStorage.getItem('hotkeyOctoSplit') || defaultConfig.hotkeyOctoSplit,
+        hotkeyTripleSplit: localStorage.getItem('hotkeyTripleSplit') || defaultConfig.hotkeyTripleSplit,
+        hotkey16x256Split: localStorage.getItem('hotkey16x256Split') || defaultConfig.hotkey16x256Split,
+        hotkey16x16Long: localStorage.getItem('hotkey16x16Long') || defaultConfig.hotkey16x16Long,
+        hotkey16xSplit: localStorage.getItem('hotkey16xSplit') || defaultConfig.hotkey16xSplit, // Load new hotkey
+        hotkey32xSplit: localStorage.getItem('hotkey32xSplit') || defaultConfig.hotkey32xSplit, // Load new hotkey
+
+    };
+
+    // Function to simulate a spacebar press
+    function simulateSpacebarPress() {
+        const eventDown = new KeyboardEvent('keydown', {
+            key: ' ',
+            code: 'Space',
+            keyCode: 32,
+            which: 32,
+            bubbles: true
+        });
+        document.dispatchEvent(eventDown);
+
+        const eventUp = new KeyboardEvent('keyup', {
+            key: ' ',
+            code: 'Space',
+            keyCode: 32,
+            which: 32,
+            bubbles: true
+        });
+        document.dispatchEvent(eventUp);
+    }
+
+    // Function to perform a 16x split (4 rapid spacebar presses)
+function perform16xSplit() {
+    console.log("Performing 16x Split");
+    for (let i = 0; i < 4; i++) {
+        simulateSpacebarPress();
+    }
+}
+
+// Function to perform a 32x split (5 rapid spacebar presses)
+function perform32xSplit() {
+    console.log("Performing 32x Split");
+    for (let i = 0; i < 5; i++) {
+        simulateSpacebarPress();
+    }
+}
+
+    // Function to perform a penta split (5 rapid spacebar presses)
+    function performPentaSplit() {
+        console.log("Performing Penta Split");
+        for (let i = 0; i < 5; i++) {
+            simulateSpacebarPress();
+        }
+    }
+
+    // Function to perform an octo split (8 rapid spacebar presses)
+    function performOctoSplit() {
+        console.log("Performing Octo Split");
+        for (let i = 0; i < 8; i++) {
+            simulateSpacebarPress();
+        }
+    }
+
+        // Function to perform a triple split (4 rapid spacebar presses)
+    function performTripleSplit() {
+        console.log("Performing First Phase of Triple Split (4x split)");
+        for (let i = 0; i < 4; i++) {
+            simulateSpacebarPress();
+        }
+    }
+
+    // Function to perform a 16x256 split
+    function perform16x256Split() {
+        console.log("Performing 16x256 Split (4x split followed by 8x split)");
+
+        // Perform the first phase: 4 spacebar presses
+        for (let i = 0; i < 4; i++) {
+            simulateSpacebarPress();
+        }
+
+        // Calculate the delay based on the special delay logic
+        let delay = calculateTotalDelay(true, PATH3_MIN_DELAY);
+
+        // Set a timeout to perform the second phase: 8 spacebar presses
+        setTimeout(function() {
+            for (let i = 0; i < 8; i++) {
+                simulateSpacebarPress();
+            }
+        }, delay);
+    }
+
+    function perform16x16LongSplit() {
+        console.log("Performing 16x16 Long Split");
+        for (let i = 0; i < 4; i++) {
+            simulateSpacebarPress();
+        }
+
+        let delay = calculateTotalDelay(false, PATH4_MIN_DELAY); // Use path 1
+
+        setTimeout(function() {
+            for (let i = 0; i < 4; i++) {
+                simulateSpacebarPress();
+            }
+        }, delay);
+    }
+
+    // Function to get your team's cells' positions (needs actual implementation)
+    function getYourCells() {
+        return []; // Implement logic to retrieve your cells' positions from the game
+    }
+
+    // Function to get other player cells' positions (needs actual implementation)
+    function getOtherPlayerCells() {
+        return []; // Implement logic to retrieve other players' cell positions from the game
+    }
+
+    // Function to get the distance between the edges of two cells
+    function getEdgeDistance(cell1, cell2) {
+        let centerDistance = Math.sqrt(Math.pow(cell2.x - cell1.x, 2) + Math.pow(cell2.y - cell1.y, 2));
+        let edgeDistance = centerDistance - cell1.radius - cell2.radius;
+        return edgeDistance;
+    }
+
+    // Function to calculate delay based on proximity to other cells
+    function calculateProximityBasedDelay(minDelay) {
+        console.log('Calculating delay based on proximity to other cells...');
+        let otherCells = getOtherPlayerCells();
+        if (otherCells.length === 0) {
+            console.warn('No other player cells found. Using default minimum delay.');
+            return minDelay;
+        }
+
+        let yourCells = getYourCells();
+        if (yourCells.length === 0) {
+            console.warn('No your cells found. Using default minimum delay.');
+            return minDelay;
+        }
+
+        let minEdgeDistance = Infinity;
+
+        for (let cell of yourCells) {
+            for (let otherCell of otherCells) {
+                let edgeDistance = getEdgeDistance(cell, otherCell);
+                if (edgeDistance < minEdgeDistance) {
+                    minEdgeDistance = edgeDistance;
+                }
+            }
+        }
+
+        let delay;
+        if (minEdgeDistance <= EDGE_TOUCH_DISTANCE) {
+            delay = minDelay;
+        } else if (minEdgeDistance <= BASE_DISTANCE) {
+            delay = minDelay + (BASE_DISTANCE - minEdgeDistance) * (minDelay / BASE_DISTANCE);
+        } else {
+            delay = minDelay;
+        }
+
+        console.log(`Calculated delay: ${delay} milliseconds`);
+        return delay;
+    }
+
+    // Function to calculate additional delay based on mass
+    function calculateMassBasedDelay() {
+        console.log('Calculating delay based on mass...');
+        let yourCells = getYourCells();
+        if (yourCells.length === 0) {
+            console.warn('No your cells found. Cannot calculate mass-based delay.');
+            return 0;
+        }
+
+        let totalMass = yourCells.reduce((sum, cell) => sum + cell.mass, 0);
+
+        let massBasedDelay = totalMass / 5;
+        console.log(`Calculated mass-based delay: ${massBasedDelay} milliseconds`);
+        return massBasedDelay;
+    }
+
+    // Function to calculate total delay based on proximity and mass
+    function calculateTotalDelay(isTripleSplit, minDelay) {
+        let proximityDelay = calculateProximityBasedDelay(minDelay);
+        let massDelay = calculateMassBasedDelay();
+        let totalDelay = Math.max(minDelay, proximityDelay + massDelay);
+        console.log(`Total calculated delay: ${totalDelay} milliseconds`);
+        return totalDelay;
+    }
+
+        // Manage intervals
+    let actionTimeout = null;
+    let isScriptRunning = false;
+    let lastActionTime = 0; // To keep track of the last action time
+    let intervalId = null; // Interval ID for periodic updates
+
+    function startPentaSplit() {
+        if (isScriptRunning) return;
+        console.log("Starting Penta Split");
+        isScriptRunning = true;
+
+        performPentaSplit();
+        lastActionTime = Date.now(); // Update last action time
+
+        let delay = calculateTotalDelay(false, PATH4_MIN_DELAY);
+
+        if (actionTimeout) clearTimeout(actionTimeout);
+
+        actionTimeout = setTimeout(function() {
+            performPentaSplit();
+            isScriptRunning = false;
+        }, delay);
+    }
+
+    function startOctoSplit() {
+        if (isScriptRunning) return;
+        console.log("Starting Fast Feed 2 (32x256)");
+        isScriptRunning = true;
+
+        performPentaSplit();
+        lastActionTime = Date.now(); // Update last action time
+
+        let delay = calculateTotalDelay(false, PATH5_MIN_DELAY);
+
+        setTimeout(function() {
+            console.log("Waiting until barely touching other cells...");
+            performOctoSplit();
+            isScriptRunning = false;
+        }, delay);
+    }
+
+    function startTripleSplit() {
+        if (isScriptRunning) return;
+        console.log("Starting Triple Split (16x16)");
+        isScriptRunning = true;
+
+        performTripleSplit();
+        lastActionTime = Date.now(); // Update last action time
+
+        let delay = calculateTotalDelay(true, PATH1_MIN_DELAY);
+
+        if (actionTimeout) clearTimeout(actionTimeout);
+
+        actionTimeout = setTimeout(function() {
+            performTripleSplit();
+            isScriptRunning = false;
+        }, delay);
+    }
+
+    function start16x256Split() {
+        if (isScriptRunning) return;
+        console.log("Starting 16x256 Split");
+        isScriptRunning = true;
+
+        perform16x256Split();
+        lastActionTime = Date.now(); // Update last action time
+
+        let delay = calculateTotalDelay(false, PATH3_MIN_DELAY);
+
+        if (actionTimeout) clearTimeout(actionTimeout);
+
+        actionTimeout = setTimeout(function() {
+            perform16x256Split();
+            isScriptRunning = false;
+        }, delay);
+    }
+
+    function start16x16LongSplit() {
+        if (isScriptRunning) return;
+        console.log("Starting 16x16 Long Split");
+        isScriptRunning = true;
+
+        perform16x16LongSplit();
+        lastActionTime = Date.now(); // Update last action time
+
+        let delay = calculateTotalDelay(false, PATH2_MIN_DELAY);
+
+        if (actionTimeout) clearTimeout(actionTimeout);
+
+        actionTimeout = setTimeout(function() {
+            perform16x16LongSplit();
+            isScriptRunning = false;
+        }, delay);
+    }
+
+    function handleRespawn() {
+        console.log('Handling respawn');
+        if (actionTimeout) clearTimeout(actionTimeout);
+        isScriptRunning = false;
+    }
+
+    function createUI() {
+        const overlay = document.createElement('div');
+        overlay.style.position = 'fixed';
+        overlay.style.top = '10px';
+        overlay.style.right = '10px';
+        overlay.style.backgroundColor = '#faebff'; // Set the background color to a shade
+        overlay.style.color = '#a28ca9';
+        overlay.style.padding = '3px';
+        overlay.style.borderRadius = '5px';
+        overlay.style.zIndex = '9999';
+        overlay.style.display = 'none'; // Initially hidden
+        overlay.style.fontWeight = 'bold'; // Make the text bold
+        overlay.style.fontSize = '16px'; // Increase the font size
+        overlay.style.textShadow = '0 0 0px black'; // Add a text shadow
+        overlay.style.outline = '0px solid black'; // Add a black border to the text
+        overlay.style.webkitTextStroke = '0px black'; // Add a black outline to the text
+        overlay.id = 'settings-overlay';
+        overlay.innerHTML = `
+             <p style="font-size: 12px; color: #a28ca9; text-align: center; margin-bottom: 4px;"> Made by Tenshi</p>
+        <div>
+            <label>&nbsp;&nbsp;32x32 Split&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" id="hotkey-input-penta-split" value="${config.hotkeyPentaSplit}"></label>
+        </div>
+        <div>
+            <label>&nbsp;&nbsp;32x256 Split&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" id="hotkey-input-octo-split" value="${config.hotkeyOctoSplit}"></label>
+        </div>
+        <div>
+            <label>&nbsp;&nbsp;(1) piece feed (16x16)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" id="hotkey-input-triple-split" value="${config.hotkeyTripleSplit}"></label>
+        </div>
+        <div>
+            <label>&nbsp;&nbsp;Test - 16x256 Split&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <input type="text" id="hotkey-input-16x256-split" value="${config.hotkey16x256Split}"></label>
+        </div>
+        <div>
+            <label>&nbsp;&nbsp;Test -  16x16 Split&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <input type="text" id="hotkey-input-16x16-long-split" value="${config.hotkey16x16Long}"></label>
+        </div>
+        <div>
+            <label>&nbsp;&nbsp;16x Split&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" id="hotkey-input-16x-split" value="${config.hotkey16xSplit}"></label>
+        </div>
+        <div>
+            <label>&nbsp;&nbsp;32x Split&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" id="hotkey-input-32x-split" value="${config.hotkey32xSplit}"></label>
+        </div>
+        <button id="save-settings">Save Settings</button>
+        <div id="status"></div>
+        <p style="font-size: 12px; color: #ff3307; text-align: center; margin-bottom: 10px;">TEST SCRIPT - not guaranteed to always work.</p>
+        `;
+
+        document.body.appendChild(overlay);
+
+        // Add event listener for the Save Settings button
+        document.getElementById('save-settings').addEventListener('click', function() {
+            const hotkeyPentaSplit = document.getElementById('hotkey-input-penta-split').value;
+            const hotkeyOctoSplit = document.getElementById('hotkey-input-octo-split').value;
+            const hotkeyTripleSplit = document.getElementById('hotkey-input-triple-split').value;
+            const hotkey16x256Split = document.getElementById('hotkey-input-16x256-split').value;
+            const hotkey16x16Long = document.getElementById('hotkey-input-16x16-long-split').value;
+            const hotkey16xSplit = document.getElementById('hotkey-input-16x-split').value; // New hotkey
+            const hotkey32xSplit = document.getElementById('hotkey-input-32x-split').value; // New hotkey
+
+
+            localStorage.setItem('hotkeyPentaSplit', hotkeyPentaSplit);
+            localStorage.setItem('hotkeyOctoSplit', hotkeyOctoSplit);
+            localStorage.setItem('hotkeyTripleSplit', hotkeyTripleSplit);
+            localStorage.setItem('hotkey16x256Split', hotkey16x256Split);
+            localStorage.setItem('hotkey16x16Long', hotkey16x16Long);
+            localStorage.setItem('hotkey16xSplit', hotkey16xSplit); // Save new hotkey
+            localStorage.setItem('hotkey32xSplit', hotkey32xSplit); // Save new hotkey
+
+            // Update the config object
+            config.hotkeyPentaSplit = hotkeyPentaSplit;
+            config.hotkeyOctoSplit = hotkeyOctoSplit;
+            config.hotkeyTripleSplit = hotkeyTripleSplit;
+            config.hotkey16x256Split = hotkey16x256Split;
+            config.hotkey16x16Long = hotkey16x16Long;
+            config.hotkey16xSplit = hotkey16xSplit; // Update new hotkey
+            config.hotkey32xSplit = hotkey32xSplit; // Update new hotkey
+
+            // Show status message
+            document.getElementById('status').innerText = 'Settings saved!';
+            setTimeout(() => {
+                document.getElementById('status').innerText = '';
+            }, 2000);
+        });
+    }
+
+
+    createUI();
+
+    document.addEventListener('visibility change', function() {
+        if (document.visibilityState === 'hidden') {
+            // Handle tab switch
+            console.log('Tab is hidden');
+        } else {
+            // Handle tab return
+            console.log('Tab is visible');
+        }
+    });
+
+    document.addEventListener('keydown', function(event) {
+        if (event.ctrlKey && event.key === 'g') {
+            const overlay = document.getElementById('settings-overlay');
+            if (overlay) {
+                overlay.style.display = overlay.style.display === 'none' ? 'block' : 'none';
+            }
+        }
+
+        if (event.key === config.hotkeyPentaSplit) {
+            startPentaSplit();
+        }
+
+        if (event.key === config.hotkeyOctoSplit) {
+            startOctoSplit();
+        }
+
+        if (event.key === config.hotkeyTripleSplit) {
+            startTripleSplit();
+        }
+
+        if (event.key === config.hotkey16x256Split) {
+            start16x256Split();
+        }
+
+        if (event.key === config.hotkey16x16Long) {
+            start16x16LongSplit();
+        }
+
+         if (event.key === config.hotkey16xSplit) { // New hotkey for 16x split
+        perform16xSplit();
+    }
+
+    if (event.key === config.hotkey32xSplit) { // New hotkey for 32x split
+        perform32xSplit();
+    }
+
+    });
+    console.log("BETA Fast Feed Hotkeys script is active. Press 'Ctrl +g' to toggle the settings overlay.");
 })();
