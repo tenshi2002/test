@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Gota Skin Gallery ali
-// @namespace    testinggggggggg
-// @version      2.1
-// @description  gg
+// @name         Gota Skin Gallery 
+// @namespace    testingggggggggaaaa
+// @version      2.2
+// @description  ggggg
 // @author       Tenshi
 // @match        *://*.gota.io/*
 // @grant        GM_getValue
